@@ -12,7 +12,8 @@ Total (12) = Live Demo (2) + VIVA(8) + MATLAB Autograded tasks (2)
 
 **Report any issue with proof at anurag.ece@cumail.in before 15-OCT-2021, 00:00 (IST) HRS**
 
-PROJECT ALLOCATED:
+## PROJECT ALLOCATED:
+
 [TEAM-1](https://github.com/orgs/Mechatronics-Engineering-CU/teams/odd2021_project_applications_of_matlab_team-1)
 
 [TEAM-2](https://github.com/orgs/Mechatronics-Engineering-CU/teams/odd2021_project_applications_of_matlab_team-2)
