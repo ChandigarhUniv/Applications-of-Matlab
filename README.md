@@ -27,3 +27,11 @@ Total (12) = Live Demo (2) + VIVA(8) + MATLAB Autograded tasks (2)
 [TEAM-7](https://github.com/orgs/Mechatronics-Engineering-CU/teams/odd2021_project_applications_of_matlab_team-7)
 
 ## DANGERZONE TEAMS - TEAM-6 AND 8
+
+## PROJECT SUBMISSION GUIDELINES
+
+- ALL TEAMS MUST UPLOAD THE FINAL PROJECT IN THEIR TEAM FOLDER ON or BEFORE **25-NOV-2021** 
+
+- THE REPORT MUST INCLUDE : 
+- well documented report in IEEE PAPER FORMAT
+- WELL mainatained readme file with all the correct hyperlinks to project files (codes, images, database etc.)
