@@ -1,8 +1,9 @@
-	![Department of Mechatronics Engineering, Chandigarh University](https://github.com/Mechatronics-Engineering-CU/Robotics4Mechatrons_-CU/blob/main/IMAGE_DATA/banner.PNG)
+![Department of Mechatronics Engineering, Chandigarh University](https://github.com/Mechatronics-Engineering-CU/Robotics4Mechatrons_-CU/blob/main/IMAGE_DATA/banner.PNG)
                                  **WORKSHEET EVALUATION**
 # (Experiment-2) 📃
 
-#### Student Name: Abhishek Sharma		                                
+#### Student Name: 
+![Abhishek Sharma](https://github.com/Mechatronics-Engineering-CU/Applications-of-Matlab/blob/main/DATA/ABHISHEK.jpg)	                                
 UID: 20BEM1024
 
 #### Branch: Mechatronics 	                                   	      
@@ -40,3 +41,6 @@ Learned more about GUI designing in MATLAB, which includes inserting components,
 **Click Below to Use The MATLAB Application**🚩
 [FINAL APP-SCIENTIFIC CALCULATOR GUI DESIGN USING MATLAB APPDESIGNER](https://github.com/Mechatronics-Engineering-CU/Applications-of-Matlab/blob/main/DATA/Scientific%20Calculator.mlappinstall)
 
+## ACKNOWLEDGEMENTS
+
+[Abhishek sharma]
