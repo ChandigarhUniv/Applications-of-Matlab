@@ -1,6 +1,6 @@
 # Applications-of-Matlab
 
-## Pre-Totals of LAB MST out of 40
+## Pre-Totals of LAB MST out of 40 [Check here](https://github.com/Mechatronics-Engineering-CU/Applications-of-Matlab/blob/main/DATA/pre-totals_MST.csv)
 
 ### The marks were recorded as follows :
 
