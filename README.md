@@ -1,12 +1,14 @@
 # Applications-of-Matlab
 
-## Pre-Totals of LAB MST out of 40 [Check here](https://github.com/Mechatronics-Engineering-CU/Applications-of-Matlab/blob/main/DATA/pre-totals_MST.csv)
+# LAB REPORT RUBRICS & SAMPLE 
 
-### The marks were recorded as follows :
+[Check here](https://sway.office.com/KmOBQZqKghntgrCx)
+# LAB MST
+### Pre-Totals of LAB MST out of 40 [Check here](https://github.com/Mechatronics-Engineering-CU/Applications-of-Matlab/blob/main/DATA/pre-totals_MST.csv)
+
+### The LAB MST marks were recorded as follows :
 
 Total (12) = Live Demo (2) + VIVA(8) + MATLAB Autograded tasks (2)
-
-
 
 ## PROJECT ALLOCATED:
 
