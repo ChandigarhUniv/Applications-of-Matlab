@@ -1,3 +1,5 @@
+![Department of Mechatronics Engineering, Chandigarh University](https://github.com/Mechatronics-Engineering-CU/Robotics4Mechatrons_-CU/blob/main/IMAGE_DATA/banner.PNG)
+        
 # Applications-of-Matlab
 
 # LAB REPORT RUBRICS & SAMPLE 
