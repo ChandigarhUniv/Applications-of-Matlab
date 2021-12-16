@@ -14,20 +14,26 @@ Total (12) = Live Demo (2) + VIVA(8) + MATLAB Autograded tasks (2)
 
 ## PROJECT ALLOCATED:
 
-[TEAM-1](https://github.com/orgs/Mechatronics-Engineering-CU/teams/odd2021_project_applications_of_matlab_team-1)
+[TEAM-1](https://github.com/Mechatronics-Engineering-CU/odd_2021_21mty-235_aom_lab_project_submission-team-1)
 
-[TEAM-2](https://github.com/orgs/Mechatronics-Engineering-CU/teams/odd2021_project_applications_of_matlab_team-2)
+[TEAM-2](https://github.com/Mechatronics-Engineering-CU/odd_2021_21mty-235_aom_lab_project_submission-team-2)
 
-[TEAM-3](https://github.com/orgs/Mechatronics-Engineering-CU/teams/odd2021_project_applications_of_matlab_team-3)
+[TEAM-3](https://github.com/Mechatronics-Engineering-CU/odd_2021_21mty-235_aom_lab_project_submission-team-3)
 
-[TEAM-4](https://github.com/orgs/Mechatronics-Engineering-CU/teams/odd2021_project_applications_of_matlab_team-4)
+[TEAM-4](https://github.com/Mechatronics-Engineering-CU/odd_2021_21mty-235_aom_lab_project_submission-team-4)
 
-[TEAM-5](https://github.com/orgs/Mechatronics-Engineering-CU/teams/odd2021_project_applications_of_matlab_team-5)
+[TEAM-5](https://github.com/Mechatronics-Engineering-CU/odd_2021_21mty-235_aom_lab_project_submission-team_5)
 
-[TEAM-7](https://github.com/orgs/Mechatronics-Engineering-CU/teams/odd2021_project_applications_of_matlab_team-7)
+[TEAM-6](https://github.com/Mechatronics-Engineering-CU/odd_2021_21mty-235_aom_lab_project_submission-team-6)
 
-[TEAM-8](https://github.com/orgs/Mechatronics-Engineering-CU/teams/odd2021_project_applications_of_matlab_team-8)
+[TEAM-7](https://github.com/Mechatronics-Engineering-CU/odd_2021_21mty-235_aom_lab_project_submission-team-7)
 
+[TEAM-8](https://github.com/Mechatronics-Engineering-CU/odd_2021_21mty-235_aom_lab_project_submission-team-8)
+
+**Note** 
+> Team-9 was a result of grou dispute among TEAM-5
+
+[TEAM-9](https://github.com/Mechatronics-Engineering-CU/-odd_2021_21mty-235_aom_lab_project_submission-team-9)
 
 
 ## PROJECT SUBMISSION GUIDELINES
@@ -37,3 +43,9 @@ Total (12) = Live Demo (2) + VIVA(8) + MATLAB Autograded tasks (2)
 - THE REPORT MUST INCLUDE : 
 - well documented report in IEEE PAPER FORMAT
 - WELL mainatained readme file with all the correct hyperlinks to project files (codes, images, database etc.)
+
+## ACKNOWLEDGEMENT :+1:
+
+[ASSISTANT PROFESSOR, MECHATRONICS - ANURAG SHARMA [E5160]](https://github.com/designerguy13-photonics)
+
+[CHANDIGARH UNIVERSITY](https://github.com/ChandigarhUniv)
