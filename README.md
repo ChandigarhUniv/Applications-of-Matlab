@@ -2,15 +2,65 @@
         
 # Applications-of-Matlab
 
-# LAB REPORT RUBRICS & SAMPLE 
+## Course Objectives 
+
+> Familiarize the student in introducing and exploring MATLAB software.
+
+> Enable the student on how to approach for solving Engineering problems using simulation tools
+
+> Prepare the students to use MATLAB in their project works.
+
+## EXPECTED OUTCOMES
+
+> Make use of MATLAB to perform basic operations on GUI Design.
+
+> Apply MATLAB programming skills to utilize MATLAB TOOLBOX for image processing and fuzzylogic design.
+
+> Apply MATLAB programming skills to utilize MATLAB ARDUINO Library for integrating I/O devices viz., LED, Ultrasonic sensors, stepper motor etc.
+
+> Determine individual/ team work while performing experiment.
+
+> Adapt professionalism with ethics and communicate effectively.
+
+##  Course Name: Application of MATLAB 
+
+## Course Code:  20MTY235
+
+## Course Credit: 02
+
+## Course Type:  PRACTICAL
+
+## Contact Hours Per Week: 2
+
+## INSTRUCTOR: 
+
+[ASSISTANT PROFESSOR, MECHATRONICS - ANURAG SHARMA [E5160]](https://github.com/designerguy13-photonics)
+
+This course is designed to give you hands-on MATLAB Sessions which will take you from simple graphical user interface designs and arithmetic calculations to image processing and control system design using available toolboxes.
+
+## INTENDED AUDIENCE : 
+
+UG, PG and Ph. D students.
+
+## PREREQUISITES : 
+
+No prerequisites except basic mathematics and knowledge of handling operating systems like Windows
+
+## INDUSTRIES SUPPORT : 
+
+The hardware and software industries that develop state-of-the-art computational designs (say assembly line) would be benefitted from this course.
+
+[SYLLABI]()
+
+## LAB REPORT RUBRICS & SAMPLE 
 
 [Check here](https://sway.office.com/KmOBQZqKghntgrCx)
 # LAB MST
-### Pre-Totals of LAB MST out of 40 [Check here](https://github.com/Mechatronics-Engineering-CU/Applications-of-Matlab/blob/main/DATA/pre-totals_MST.csv)
+> Pre-Totals of LAB MST out of 40 [Check here](https://github.com/Mechatronics-Engineering-CU/Applications-of-Matlab/blob/main/DATA/pre-totals_MST.csv)
 
-### The LAB MST marks were recorded as follows :
+> The LAB MST marks were recorded as follows :
 
-Total (12) = Live Demo (2) + VIVA(8) + MATLAB Autograded tasks (2)
+> Total (12) = Live Demo (2) + VIVA(8) + MATLAB Autograded tasks (2)
 
 ## PROJECT ALLOCATED:
 
@@ -46,6 +96,6 @@ Total (12) = Live Demo (2) + VIVA(8) + MATLAB Autograded tasks (2)
 
 ## ACKNOWLEDGEMENT :+1:
 
-[ASSISTANT PROFESSOR, MECHATRONICS - ANURAG SHARMA [E5160]](https://github.com/designerguy13-photonics)
+
 
 [CHANDIGARH UNIVERSITY](https://github.com/ChandigarhUniv)
