@@ -96,6 +96,25 @@ The hardware and software industries that develop state-of-the-art computational
 
 ## ACKNOWLEDGEMENT :+1:
 
+## LAB DEMONSTRATIONS 📔
+
+[EXPERIMENT-1](https://www.youtube.com/watch?v=zKqQ2HPi0O0&list=PLkyt7mvZgm4Q2wcWlzxXe1P6B8RwMgGfJ&index=1)
+
+[EXPERIMENT-2](https://www.youtube.com/watch?v=LiUc7eKxHhE&list=PLkyt7mvZgm4Q2wcWlzxXe1P6B8RwMgGfJ&index=2)
+
+[EXPERIMENT-3](https://www.youtube.com/watch?v=pLIlK40G_lc&list=PLkyt7mvZgm4Q2wcWlzxXe1P6B8RwMgGfJ&index=3)
+
+[EXPERIMENT-4](https://www.youtube.com/watch?v=8zujFMgps8A&list=PLkyt7mvZgm4Q2wcWlzxXe1P6B8RwMgGfJ&index=4)
+
+[EXPERIMENT-5](https://www.youtube.com/watch?v=rYOCcB8lpRA&list=PLkyt7mvZgm4Q2wcWlzxXe1P6B8RwMgGfJ&index=5)
+
+[EXPERIMENT-6](https://www.youtube.com/watch?v=zKqQ2HPi0O0&list=PLkyt7mvZgm4Q2wcWlzxXe1P6B8RwMgGfJ&index=6)
+
+[EXPERIMENT-7](https://www.youtube.com/watch?v=SXSCQ3cWLq4&list=PLkyt7mvZgm4Q2wcWlzxXe1P6B8RwMgGfJ&index=7)
+
+[EXPERIMENT-8](https://www.youtube.com/watch?v=6LJQj42hfxk&list=PLkyt7mvZgm4Q2wcWlzxXe1P6B8RwMgGfJ&index=8)
+
+[EXPERIMENT-9](https://www.youtube.com/watch?v=WKeqDUhPYNw&list=PLkyt7mvZgm4Q2wcWlzxXe1P6B8RwMgGfJ&index=9)
 
 
 [CHANDIGARH UNIVERSITY](https://github.com/ChandigarhUniv)
